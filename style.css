@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: lime;
+    font-family: 'Courier New', monospace;
+}
+
+#game {
+    margin-top: 50px;
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  font-size: 16px;
+  margin: 10px;
+}
+
+#stats {
+    margin-top: 50px;
+}
